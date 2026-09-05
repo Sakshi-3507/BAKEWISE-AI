@@ -1,0 +1,501 @@
+Customer_ID,Customer_Type,Age_Group,Preferred_Product,Orders_Per_Month,Days_Since_Last_Order
+CUST1000,Regular,Young Adult (20-35),Jar Cake,2.0,57
+CUST1001,Regular,Adult (36-55),Croissant,4.2,40
+CUST1002,Loyal,Young Adult (20-35),Brownie,1.2,116
+CUST1003,New,Young Adult (20-35),Jar Cake,5.0,78
+CUST1004,New,Adult (36-55),Cake,1.0,114
+CUST1005,New,Adult (36-55),Croissant,1.3,110
+CUST1006,Regular,Young Adult (20-35),Brownie,6.8,53
+CUST1007,New,Adult (36-55),Cake,5.4,75
+CUST1008,Regular,Adult (36-55),Cake,1.2,40
+CUST1009,Regular,Adult (36-55),Cookies,1.1,47
+CUST1010,Regular,Young Adult (20-35),Jar Cake,2.0,95
+CUST1011,Regular,Teen (13-19),Cupcake,3.1,69
+CUST1012,New,Adult (36-55),Cookies,3.9,115
+CUST1013,Loyal,Adult (36-55),Cookies,2.5,26
+CUST1014,Loyal,Adult (36-55),Croissant,1.8,46
+CUST1015,New,Teen (13-19),Chocolate,5.3,76
+CUST1016,New,Adult (36-55),Cake,2.6,116
+CUST1017,Loyal,Adult (36-55),Cookies,2.9,22
+CUST1018,New,Young Adult (20-35),Croissant,1.5,73
+CUST1019,New,Young Adult (20-35),Brownie,6.3,13
+CUST1020,Regular,Adult (36-55),Croissant,1.9,60
+CUST1021,New,Adult (36-55),Cake,1.2,66
+CUST1022,New,Teen (13-19),Jar Cake,0.9,75
+CUST1023,Regular,Adult (36-55),Croissant,1.1,24
+CUST1024,Regular,Adult (36-55),Cake,2.9,64
+CUST1025,Loyal,Adult (36-55),Cake,3.5,95
+CUST1026,Loyal,Adult (36-55),Cake,7.1,23
+CUST1027,New,Adult (36-55),Croissant,2.9,52
+CUST1028,New,Teen (13-19),Chocolate,1.5,111
+CUST1029,Regular,Young Adult (20-35),Brownie,8.2,105
+CUST1030,Regular,Adult (36-55),Croissant,6.1,72
+CUST1031,New,Teen (13-19),Chocolate,1.2,49
+CUST1032,New,Adult (36-55),Cookies,0.6,0
+CUST1033,New,Adult (36-55),Cookies,1.8,105
+CUST1034,Regular,Young Adult (20-35),Croissant,0.2,38
+CUST1035,New,Adult (36-55),Cookies,0.7,73
+CUST1036,Loyal,Young Adult (20-35),Jar Cake,5.7,43
+CUST1037,New,Young Adult (20-35),Jar Cake,3.4,106
+CUST1038,Loyal,Young Adult (20-35),Croissant,2.4,104
+CUST1039,Loyal,Senior (56+),Cookies,2.9,93
+CUST1040,Regular,Young Adult (20-35),Croissant,1.2,4
+CUST1041,Regular,Adult (36-55),Cookies,3.4,67
+CUST1042,Regular,Teen (13-19),Cupcake,8.2,115
+CUST1043,New,Teen (13-19),Chocolate,3.8,108
+CUST1044,New,Teen (13-19),Cupcake,0.7,71
+CUST1045,Regular,Adult (36-55),Croissant,2.0,79
+CUST1046,Regular,Young Adult (20-35),Jar Cake,4.7,64
+CUST1047,Regular,Young Adult (20-35),Croissant,1.3,112
+CUST1048,Regular,Adult (36-55),Croissant,2.4,78
+CUST1049,Regular,Young Adult (20-35),Jar Cake,1.4,87
+CUST1050,Regular,Young Adult (20-35),Croissant,6.1,14
+CUST1051,Regular,Young Adult (20-35),Jar Cake,3.3,49
+CUST1052,Regular,Young Adult (20-35),Jar Cake,1.7,5
+CUST1053,Loyal,Adult (36-55),Cake,3.2,65
+CUST1054,Regular,Young Adult (20-35),Croissant,2.9,68
+CUST1055,Regular,Young Adult (20-35),Brownie,0.1,114
+CUST1056,Regular,Senior (56+),Cake,1.4,38
+CUST1057,Regular,Senior (56+),Muffin,4.6,104
+CUST1058,Regular,Adult (36-55),Cake,3.7,97
+CUST1059,New,Senior (56+),Cookies,1.9,102
+CUST1060,Loyal,Adult (36-55),Cake,3.7,95
+CUST1061,New,Adult (36-55),Cookies,6.1,28
+CUST1062,Regular,Adult (36-55),Cake,2.0,92
+CUST1063,New,Adult (36-55),Cake,2.0,87
+CUST1064,New,Adult (36-55),Croissant,3.6,45
+CUST1065,Regular,Teen (13-19),Chocolate,3.1,30
+CUST1066,Regular,Adult (36-55),Croissant,7.3,23
+CUST1067,Loyal,Adult (36-55),Cake,6.0,118
+CUST1068,New,Adult (36-55),Cookies,1.0,14
+CUST1069,New,Young Adult (20-35),Jar Cake,2.6,75
+CUST1070,New,Young Adult (20-35),Jar Cake,0.9,19
+CUST1071,Regular,Young Adult (20-35),Jar Cake,1.8,3
+CUST1072,Loyal,Young Adult (20-35),Jar Cake,4.7,57
+CUST1073,Regular,Teen (13-19),Chocolate,0.9,76
+CUST1074,Regular,Young Adult (20-35),Brownie,7.6,60
+CUST1075,Loyal,Young Adult (20-35),Brownie,5.0,104
+CUST1076,New,Young Adult (20-35),Brownie,2.3,107
+CUST1077,Regular,Adult (36-55),Cookies,1.3,9
+CUST1078,Regular,Senior (56+),Cake,5.6,40
+CUST1079,New,Teen (13-19),Cupcake,1.9,52
+CUST1080,New,Adult (36-55),Cake,2.5,86
+CUST1081,New,Teen (13-19),Jar Cake,2.7,70
+CUST1082,Loyal,Teen (13-19),Jar Cake,2.2,75
+CUST1083,Regular,Adult (36-55),Croissant,2.2,47
+CUST1084,Loyal,Adult (36-55),Cake,3.0,14
+CUST1085,Regular,Adult (36-55),Cake,1.9,6
+CUST1086,Regular,Young Adult (20-35),Croissant,0.9,71
+CUST1087,Regular,Senior (56+),Cake,1.3,70
+CUST1088,Loyal,Young Adult (20-35),Croissant,7.3,42
+CUST1089,New,Young Adult (20-35),Brownie,1.7,3
+CUST1090,New,Teen (13-19),Jar Cake,1.6,113
+CUST1091,Regular,Adult (36-55),Cake,6.2,50
+CUST1092,Loyal,Young Adult (20-35),Croissant,0.7,70
+CUST1093,Loyal,Young Adult (20-35),Croissant,4.7,58
+CUST1094,Regular,Adult (36-55),Croissant,1.3,108
+CUST1095,New,Teen (13-19),Cupcake,0.9,40
+CUST1096,New,Teen (13-19),Cupcake,6.7,60
+CUST1097,Loyal,Teen (13-19),Chocolate,2.9,29
+CUST1098,Regular,Teen (13-19),Jar Cake,1.1,17
+CUST1099,New,Adult (36-55),Cookies,8.1,29
+CUST1100,Loyal,Adult (36-55),Cake,0.9,6
+CUST1101,New,Young Adult (20-35),Croissant,2.9,51
+CUST1102,Regular,Young Adult (20-35),Brownie,1.1,47
+CUST1103,Regular,Adult (36-55),Cake,4.5,22
+CUST1104,New,Young Adult (20-35),Croissant,4.3,36
+CUST1105,New,Adult (36-55),Croissant,2.7,70
+CUST1106,New,Young Adult (20-35),Brownie,5.0,101
+CUST1107,Regular,Young Adult (20-35),Jar Cake,0.6,92
+CUST1108,Regular,Senior (56+),Cake,3.1,97
+CUST1109,New,Adult (36-55),Cookies,3.8,102
+CUST1110,Loyal,Teen (13-19),Jar Cake,1.0,52
+CUST1111,New,Young Adult (20-35),Croissant,3.5,104
+CUST1112,New,Young Adult (20-35),Brownie,2.7,44
+CUST1113,New,Young Adult (20-35),Brownie,5.5,48
+CUST1114,New,Senior (56+),Muffin,3.0,48
+CUST1115,Loyal,Senior (56+),Cake,2.4,110
+CUST1116,New,Young Adult (20-35),Brownie,1.0,81
+CUST1117,Regular,Young Adult (20-35),Brownie,3.0,119
+CUST1118,Loyal,Adult (36-55),Cookies,4.4,46
+CUST1119,Regular,Young Adult (20-35),Jar Cake,7.8,106
+CUST1120,Regular,Adult (36-55),Croissant,3.0,24
+CUST1121,Loyal,Adult (36-55),Cake,6.3,90
+CUST1122,Regular,Adult (36-55),Croissant,2.6,26
+CUST1123,New,Adult (36-55),Cake,0.8,11
+CUST1124,Regular,Adult (36-55),Cake,13.5,22
+CUST1125,Loyal,Senior (56+),Cookies,4.0,16
+CUST1126,Regular,Young Adult (20-35),Jar Cake,0.7,43
+CUST1127,Regular,Senior (56+),Cookies,4.6,70
+CUST1128,Loyal,Teen (13-19),Chocolate,1.8,23
+CUST1129,Regular,Young Adult (20-35),Jar Cake,1.7,70
+CUST1130,New,Teen (13-19),Chocolate,6.3,92
+CUST1131,New,Adult (36-55),Cake,1.2,59
+CUST1132,Regular,Teen (13-19),Chocolate,0.5,52
+CUST1133,New,Adult (36-55),Cake,1.3,91
+CUST1134,Loyal,Adult (36-55),Croissant,4.2,86
+CUST1135,Regular,Teen (13-19),Chocolate,3.4,73
+CUST1136,Regular,Adult (36-55),Cookies,4.0,15
+CUST1137,Regular,Senior (56+),Cookies,5.3,106
+CUST1138,Regular,Adult (36-55),Croissant,3.2,111
+CUST1139,Regular,Teen (13-19),Cupcake,1.0,97
+CUST1140,New,Senior (56+),Cake,1.6,24
+CUST1141,Regular,Adult (36-55),Cake,5.4,65
+CUST1142,Loyal,Young Adult (20-35),Jar Cake,0.1,49
+CUST1143,Regular,Young Adult (20-35),Croissant,4.1,68
+CUST1144,Regular,Young Adult (20-35),Croissant,1.2,77
+CUST1145,New,Senior (56+),Cake,7.6,94
+CUST1146,Loyal,Young Adult (20-35),Jar Cake,0.7,39
+CUST1147,Loyal,Teen (13-19),Cupcake,1.9,5
+CUST1148,Regular,Senior (56+),Cake,6.2,63
+CUST1149,Regular,Teen (13-19),Chocolate,4.6,27
+CUST1150,Regular,Senior (56+),Cake,1.5,8
+CUST1151,Regular,Young Adult (20-35),Brownie,2.2,5
+CUST1152,Loyal,Young Adult (20-35),Jar Cake,7.4,116
+CUST1153,New,Teen (13-19),Jar Cake,1.2,16
+CUST1154,Regular,Senior (56+),Muffin,4.7,39
+CUST1155,New,Adult (36-55),Cake,0.9,98
+CUST1156,New,Senior (56+),Muffin,1.7,75
+CUST1157,Regular,Adult (36-55),Cookies,2.9,44
+CUST1158,New,Young Adult (20-35),Croissant,2.5,81
+CUST1159,Regular,Young Adult (20-35),Croissant,3.6,118
+CUST1160,New,Young Adult (20-35),Brownie,2.0,42
+CUST1161,Regular,Adult (36-55),Croissant,2.1,97
+CUST1162,New,Senior (56+),Cookies,2.5,45
+CUST1163,Regular,Young Adult (20-35),Brownie,2.2,62
+CUST1164,Regular,Adult (36-55),Cake,7.2,0
+CUST1165,Loyal,Senior (56+),Muffin,1.8,58
+CUST1166,Loyal,Young Adult (20-35),Croissant,2.5,62
+CUST1167,New,Senior (56+),Cake,11.1,78
+CUST1168,New,Young Adult (20-35),Jar Cake,3.5,17
+CUST1169,Regular,Adult (36-55),Croissant,0.3,85
+CUST1170,Regular,Young Adult (20-35),Brownie,2.7,81
+CUST1171,New,Young Adult (20-35),Croissant,4.4,112
+CUST1172,New,Teen (13-19),Cupcake,3.4,64
+CUST1173,Regular,Senior (56+),Muffin,4.6,109
+CUST1174,Loyal,Adult (36-55),Cake,8.2,19
+CUST1175,Loyal,Teen (13-19),Chocolate,2.8,55
+CUST1176,New,Senior (56+),Muffin,1.1,53
+CUST1177,Regular,Adult (36-55),Cookies,1.2,47
+CUST1178,New,Senior (56+),Cake,2.2,99
+CUST1179,Regular,Teen (13-19),Jar Cake,8.1,53
+CUST1180,Regular,Young Adult (20-35),Brownie,1.6,101
+CUST1181,Regular,Adult (36-55),Cookies,2.9,88
+CUST1182,Regular,Teen (13-19),Cupcake,4.8,15
+CUST1183,New,Young Adult (20-35),Croissant,1.0,19
+CUST1184,Regular,Young Adult (20-35),Brownie,8.5,101
+CUST1185,Loyal,Young Adult (20-35),Jar Cake,5.1,46
+CUST1186,New,Young Adult (20-35),Jar Cake,6.5,96
+CUST1187,New,Senior (56+),Cookies,1.2,6
+CUST1188,Regular,Young Adult (20-35),Jar Cake,2.7,22
+CUST1189,Regular,Young Adult (20-35),Jar Cake,4.1,74
+CUST1190,Loyal,Young Adult (20-35),Croissant,2.1,32
+CUST1191,Regular,Adult (36-55),Cake,0.4,39
+CUST1192,Regular,Adult (36-55),Cookies,3.8,109
+CUST1193,Regular,Adult (36-55),Croissant,1.0,4
+CUST1194,Loyal,Teen (13-19),Chocolate,3.8,44
+CUST1195,Regular,Young Adult (20-35),Brownie,1.3,110
+CUST1196,Loyal,Adult (36-55),Croissant,3.0,40
+CUST1197,New,Senior (56+),Cake,2.9,7
+CUST1198,Regular,Adult (36-55),Cake,0.8,114
+CUST1199,Regular,Teen (13-19),Jar Cake,0.9,80
+CUST1200,New,Young Adult (20-35),Croissant,9.5,114
+CUST1201,New,Teen (13-19),Jar Cake,2.2,81
+CUST1202,Regular,Adult (36-55),Cake,1.2,49
+CUST1203,Regular,Teen (13-19),Jar Cake,4.6,90
+CUST1204,Loyal,Young Adult (20-35),Jar Cake,1.6,30
+CUST1205,Regular,Young Adult (20-35),Brownie,3.2,3
+CUST1206,New,Young Adult (20-35),Jar Cake,3.4,65
+CUST1207,Regular,Young Adult (20-35),Brownie,4.0,55
+CUST1208,New,Young Adult (20-35),Croissant,0.9,4
+CUST1209,Regular,Adult (36-55),Cake,6.5,80
+CUST1210,Regular,Young Adult (20-35),Croissant,2.2,53
+CUST1211,Loyal,Young Adult (20-35),Croissant,2.9,102
+CUST1212,Regular,Young Adult (20-35),Brownie,1.9,95
+CUST1213,Loyal,Young Adult (20-35),Croissant,3.9,92
+CUST1214,Regular,Adult (36-55),Cake,5.1,79
+CUST1215,Regular,Young Adult (20-35),Croissant,1.0,0
+CUST1216,Regular,Adult (36-55),Croissant,3.4,75
+CUST1217,Regular,Adult (36-55),Croissant,2.0,82
+CUST1218,New,Adult (36-55),Cookies,3.6,72
+CUST1219,Loyal,Young Adult (20-35),Brownie,2.9,111
+CUST1220,Regular,Young Adult (20-35),Croissant,4.4,60
+CUST1221,New,Adult (36-55),Croissant,3.3,6
+CUST1222,Loyal,Young Adult (20-35),Croissant,0.6,29
+CUST1223,New,Young Adult (20-35),Croissant,5.5,14
+CUST1224,Loyal,Adult (36-55),Cake,2.0,107
+CUST1225,New,Teen (13-19),Cupcake,4.3,3
+CUST1226,Regular,Young Adult (20-35),Croissant,1.3,62
+CUST1227,Regular,Adult (36-55),Cake,0.7,69
+CUST1228,Regular,Senior (56+),Cake,5.0,37
+CUST1229,New,Senior (56+),Cookies,2.8,46
+CUST1230,New,Young Adult (20-35),Jar Cake,1.9,59
+CUST1231,New,Young Adult (20-35),Brownie,1.6,98
+CUST1232,Loyal,Teen (13-19),Cupcake,4.7,1
+CUST1233,New,Young Adult (20-35),Jar Cake,6.2,68
+CUST1234,Regular,Adult (36-55),Cookies,7.8,7
+CUST1235,Loyal,Teen (13-19),Cupcake,0.7,50
+CUST1236,Loyal,Young Adult (20-35),Croissant,1.8,116
+CUST1237,New,Senior (56+),Muffin,4.6,93
+CUST1238,Loyal,Adult (36-55),Cookies,1.2,111
+CUST1239,New,Adult (36-55),Cookies,3.9,18
+CUST1240,Regular,Senior (56+),Cake,10.4,93
+CUST1241,Regular,Adult (36-55),Cookies,1.2,118
+CUST1242,New,Teen (13-19),Cupcake,3.2,30
+CUST1243,New,Young Adult (20-35),Jar Cake,0.2,79
+CUST1244,Regular,Young Adult (20-35),Brownie,2.1,101
+CUST1245,Regular,Young Adult (20-35),Brownie,3.1,21
+CUST1246,Loyal,Adult (36-55),Croissant,3.3,32
+CUST1247,Regular,Young Adult (20-35),Croissant,3.2,113
+CUST1248,Loyal,Teen (13-19),Cupcake,0.9,85
+CUST1249,Regular,Young Adult (20-35),Jar Cake,2.0,71
+CUST1250,Loyal,Young Adult (20-35),Croissant,2.0,36
+CUST1251,Regular,Senior (56+),Cookies,3.7,11
+CUST1252,Loyal,Adult (36-55),Croissant,7.1,113
+CUST1253,New,Adult (36-55),Cake,0.1,68
+CUST1254,Regular,Young Adult (20-35),Jar Cake,2.5,63
+CUST1255,New,Adult (36-55),Cake,4.5,24
+CUST1256,New,Adult (36-55),Croissant,6.2,53
+CUST1257,Regular,Adult (36-55),Cake,3.4,28
+CUST1258,Regular,Senior (56+),Cookies,7.4,12
+CUST1259,New,Senior (56+),Cookies,0.7,116
+CUST1260,Regular,Senior (56+),Cookies,0.6,25
+CUST1261,Regular,Adult (36-55),Cookies,0.8,21
+CUST1262,New,Senior (56+),Muffin,2.4,92
+CUST1263,Regular,Young Adult (20-35),Jar Cake,5.8,75
+CUST1264,Regular,Senior (56+),Cookies,2.2,111
+CUST1265,New,Senior (56+),Cake,0.9,109
+CUST1266,Regular,Senior (56+),Cookies,3.6,106
+CUST1267,Regular,Adult (36-55),Cake,6.1,91
+CUST1268,Loyal,Young Adult (20-35),Jar Cake,6.5,72
+CUST1269,New,Young Adult (20-35),Croissant,5.6,118
+CUST1270,Loyal,Young Adult (20-35),Croissant,4.7,9
+CUST1271,New,Adult (36-55),Cookies,1.8,47
+CUST1272,Regular,Young Adult (20-35),Croissant,3.0,114
+CUST1273,New,Young Adult (20-35),Brownie,5.9,41
+CUST1274,Loyal,Adult (36-55),Cake,1.8,89
+CUST1275,Regular,Adult (36-55),Cake,5.1,116
+CUST1276,New,Senior (56+),Cookies,6.9,99
+CUST1277,New,Adult (36-55),Croissant,1.4,58
+CUST1278,New,Adult (36-55),Cake,4.2,52
+CUST1279,New,Adult (36-55),Cookies,0.8,39
+CUST1280,Regular,Adult (36-55),Cookies,2.8,74
+CUST1281,Regular,Young Adult (20-35),Croissant,7.8,61
+CUST1282,Loyal,Young Adult (20-35),Brownie,1.2,5
+CUST1283,Loyal,Senior (56+),Cake,0.6,3
+CUST1284,Regular,Adult (36-55),Croissant,3.2,116
+CUST1285,New,Adult (36-55),Cake,1.4,90
+CUST1286,Regular,Young Adult (20-35),Croissant,5.9,54
+CUST1287,Regular,Young Adult (20-35),Croissant,7.2,87
+CUST1288,Regular,Adult (36-55),Cookies,1.8,68
+CUST1289,Regular,Teen (13-19),Cupcake,1.5,113
+CUST1290,Loyal,Young Adult (20-35),Croissant,1.1,117
+CUST1291,Loyal,Young Adult (20-35),Jar Cake,1.7,2
+CUST1292,New,Young Adult (20-35),Brownie,0.6,6
+CUST1293,New,Adult (36-55),Cookies,0.4,87
+CUST1294,Loyal,Senior (56+),Cookies,2.7,85
+CUST1295,Loyal,Adult (36-55),Croissant,5.1,11
+CUST1296,New,Senior (56+),Cake,4.2,98
+CUST1297,Regular,Adult (36-55),Croissant,1.6,16
+CUST1298,Regular,Adult (36-55),Cake,5.9,66
+CUST1299,Regular,Teen (13-19),Cupcake,2.3,74
+CUST1300,New,Teen (13-19),Chocolate,0.3,69
+CUST1301,Loyal,Adult (36-55),Cake,3.5,106
+CUST1302,Regular,Young Adult (20-35),Jar Cake,1.5,35
+CUST1303,New,Adult (36-55),Cake,4.1,16
+CUST1304,Regular,Young Adult (20-35),Brownie,2.4,85
+CUST1305,Regular,Senior (56+),Cake,4.8,0
+CUST1306,Loyal,Senior (56+),Muffin,5.6,107
+CUST1307,New,Teen (13-19),Chocolate,2.0,119
+CUST1308,Loyal,Young Adult (20-35),Brownie,1.4,66
+CUST1309,New,Adult (36-55),Cake,1.8,79
+CUST1310,Regular,Young Adult (20-35),Brownie,1.5,98
+CUST1311,Regular,Young Adult (20-35),Croissant,2.2,77
+CUST1312,Regular,Adult (36-55),Croissant,2.9,48
+CUST1313,Regular,Senior (56+),Cookies,3.7,50
+CUST1314,Loyal,Adult (36-55),Croissant,3.0,70
+CUST1315,Regular,Young Adult (20-35),Jar Cake,2.2,89
+CUST1316,Regular,Young Adult (20-35),Croissant,3.7,119
+CUST1317,New,Young Adult (20-35),Croissant,1.8,42
+CUST1318,New,Young Adult (20-35),Croissant,2.2,111
+CUST1319,New,Young Adult (20-35),Brownie,1.2,30
+CUST1320,Loyal,Young Adult (20-35),Croissant,0.2,23
+CUST1321,Regular,Senior (56+),Cake,2.3,82
+CUST1322,Loyal,Adult (36-55),Croissant,2.5,36
+CUST1323,New,Adult (36-55),Cake,1.6,64
+CUST1324,Regular,Senior (56+),Cookies,3.8,88
+CUST1325,New,Young Adult (20-35),Jar Cake,9.0,62
+CUST1326,Regular,Teen (13-19),Chocolate,1.0,55
+CUST1327,Regular,Adult (36-55),Cake,4.8,73
+CUST1328,New,Senior (56+),Muffin,4.2,17
+CUST1329,Regular,Adult (36-55),Croissant,1.0,105
+CUST1330,New,Teen (13-19),Chocolate,1.0,64
+CUST1331,Regular,Adult (36-55),Cake,0.7,28
+CUST1332,Regular,Teen (13-19),Cupcake,7.4,76
+CUST1333,Regular,Young Adult (20-35),Jar Cake,7.9,3
+CUST1334,Loyal,Young Adult (20-35),Brownie,7.5,11
+CUST1335,Regular,Senior (56+),Cake,4.8,55
+CUST1336,Regular,Young Adult (20-35),Croissant,2.7,47
+CUST1337,Loyal,Senior (56+),Cake,2.8,18
+CUST1338,Regular,Young Adult (20-35),Jar Cake,0.3,25
+CUST1339,New,Young Adult (20-35),Jar Cake,1.3,107
+CUST1340,Loyal,Senior (56+),Muffin,1.5,37
+CUST1341,New,Young Adult (20-35),Jar Cake,0.9,79
+CUST1342,New,Adult (36-55),Cake,3.4,107
+CUST1343,New,Young Adult (20-35),Brownie,1.9,24
+CUST1344,New,Adult (36-55),Croissant,1.9,55
+CUST1345,New,Teen (13-19),Cupcake,3.5,73
+CUST1346,New,Young Adult (20-35),Brownie,2.3,100
+CUST1347,Regular,Adult (36-55),Cake,2.7,27
+CUST1348,New,Young Adult (20-35),Jar Cake,0.8,60
+CUST1349,New,Teen (13-19),Jar Cake,0.9,91
+CUST1350,Regular,Adult (36-55),Cake,0.6,88
+CUST1351,New,Young Adult (20-35),Brownie,7.4,88
+CUST1352,New,Teen (13-19),Chocolate,5.0,50
+CUST1353,Regular,Adult (36-55),Croissant,1.9,11
+CUST1354,New,Senior (56+),Cookies,2.1,7
+CUST1355,New,Teen (13-19),Cupcake,6.5,99
+CUST1356,Regular,Adult (36-55),Cookies,2.2,102
+CUST1357,Regular,Adult (36-55),Cookies,2.4,57
+CUST1358,Regular,Teen (13-19),Cupcake,2.6,87
+CUST1359,Loyal,Teen (13-19),Chocolate,2.4,22
+CUST1360,Regular,Young Adult (20-35),Croissant,0.6,36
+CUST1361,Regular,Adult (36-55),Cookies,1.5,10
+CUST1362,New,Young Adult (20-35),Jar Cake,0.9,16
+CUST1363,Regular,Adult (36-55),Croissant,1.5,91
+CUST1364,New,Adult (36-55),Cookies,3.1,55
+CUST1365,Regular,Young Adult (20-35),Jar Cake,3.8,52
+CUST1366,Regular,Young Adult (20-35),Croissant,2.3,66
+CUST1367,Regular,Senior (56+),Muffin,1.6,1
+CUST1368,Loyal,Young Adult (20-35),Brownie,1.2,114
+CUST1369,Loyal,Young Adult (20-35),Brownie,2.0,28
+CUST1370,New,Adult (36-55),Cookies,2.6,56
+CUST1371,New,Teen (13-19),Chocolate,1.2,33
+CUST1372,Loyal,Teen (13-19),Jar Cake,2.2,77
+CUST1373,Regular,Teen (13-19),Jar Cake,1.2,96
+CUST1374,Regular,Young Adult (20-35),Croissant,3.9,111
+CUST1375,Regular,Teen (13-19),Cupcake,1.6,110
+CUST1376,Regular,Adult (36-55),Croissant,2.0,81
+CUST1377,Loyal,Senior (56+),Cookies,2.8,92
+CUST1378,Regular,Teen (13-19),Jar Cake,4.6,1
+CUST1379,Regular,Young Adult (20-35),Brownie,2.0,74
+CUST1380,Regular,Teen (13-19),Jar Cake,1.6,30
+CUST1381,Loyal,Teen (13-19),Chocolate,3.9,116
+CUST1382,Regular,Young Adult (20-35),Brownie,1.4,112
+CUST1383,Regular,Young Adult (20-35),Croissant,1.0,76
+CUST1384,Loyal,Senior (56+),Cookies,2.0,43
+CUST1385,Regular,Young Adult (20-35),Croissant,2.5,89
+CUST1386,Regular,Young Adult (20-35),Jar Cake,7.8,55
+CUST1387,Regular,Young Adult (20-35),Croissant,0.9,97
+CUST1388,Regular,Teen (13-19),Chocolate,1.2,53
+CUST1389,New,Senior (56+),Cake,3.1,52
+CUST1390,Regular,Teen (13-19),Cupcake,2.7,113
+CUST1391,Regular,Senior (56+),Muffin,5.8,73
+CUST1392,Regular,Teen (13-19),Cupcake,0.8,75
+CUST1393,Regular,Adult (36-55),Cookies,4.3,112
+CUST1394,Regular,Senior (56+),Cookies,3.7,85
+CUST1395,Loyal,Teen (13-19),Jar Cake,0.8,45
+CUST1396,New,Young Adult (20-35),Jar Cake,2.0,53
+CUST1397,New,Adult (36-55),Cookies,1.4,30
+CUST1398,Regular,Teen (13-19),Jar Cake,0.8,82
+CUST1399,Regular,Adult (36-55),Croissant,3.7,108
+CUST1400,New,Teen (13-19),Jar Cake,5.7,23
+CUST1401,New,Young Adult (20-35),Brownie,3.2,24
+CUST1402,Regular,Young Adult (20-35),Jar Cake,1.6,34
+CUST1403,Regular,Senior (56+),Cake,2.4,56
+CUST1404,Regular,Young Adult (20-35),Croissant,5.0,71
+CUST1405,Regular,Teen (13-19),Jar Cake,6.9,68
+CUST1406,Regular,Adult (36-55),Cake,2.0,85
+CUST1407,Regular,Young Adult (20-35),Jar Cake,3.6,27
+CUST1408,Regular,Young Adult (20-35),Jar Cake,2.8,75
+CUST1409,Regular,Teen (13-19),Jar Cake,0.8,32
+CUST1410,Loyal,Adult (36-55),Cake,4.3,52
+CUST1411,Loyal,Adult (36-55),Cookies,3.6,15
+CUST1412,New,Young Adult (20-35),Jar Cake,5.0,25
+CUST1413,New,Young Adult (20-35),Jar Cake,2.8,11
+CUST1414,New,Adult (36-55),Cookies,1.3,86
+CUST1415,Regular,Adult (36-55),Croissant,2.2,112
+CUST1416,Regular,Young Adult (20-35),Croissant,1.6,89
+CUST1417,Regular,Teen (13-19),Chocolate,2.6,104
+CUST1418,New,Young Adult (20-35),Croissant,2.3,76
+CUST1419,Regular,Adult (36-55),Croissant,8.3,86
+CUST1420,Loyal,Senior (56+),Cookies,11.1,30
+CUST1421,Regular,Teen (13-19),Chocolate,0.8,99
+CUST1422,New,Young Adult (20-35),Croissant,2.4,26
+CUST1423,Regular,Teen (13-19),Jar Cake,3.8,35
+CUST1424,Regular,Young Adult (20-35),Croissant,1.2,58
+CUST1425,Loyal,Young Adult (20-35),Brownie,2.5,110
+CUST1426,Regular,Senior (56+),Cookies,2.4,105
+CUST1427,Regular,Teen (13-19),Jar Cake,5.7,86
+CUST1428,Regular,Adult (36-55),Cookies,5.7,101
+CUST1429,Regular,Young Adult (20-35),Jar Cake,1.4,2
+CUST1430,Regular,Adult (36-55),Cake,2.7,93
+CUST1431,New,Young Adult (20-35),Jar Cake,3.1,31
+CUST1432,Regular,Teen (13-19),Cupcake,0.2,14
+CUST1433,New,Senior (56+),Cake,1.9,101
+CUST1434,New,Teen (13-19),Jar Cake,0.2,74
+CUST1435,Regular,Adult (36-55),Croissant,2.7,65
+CUST1436,New,Senior (56+),Cookies,1.4,89
+CUST1437,New,Teen (13-19),Jar Cake,3.1,62
+CUST1438,Regular,Adult (36-55),Cookies,2.1,97
+CUST1439,Regular,Adult (36-55),Cookies,3.7,0
+CUST1440,New,Senior (56+),Cake,8.1,74
+CUST1441,Regular,Adult (36-55),Cake,0.9,4
+CUST1442,New,Young Adult (20-35),Jar Cake,3.0,89
+CUST1443,New,Adult (36-55),Cookies,2.2,5
+CUST1444,Regular,Adult (36-55),Cookies,3.5,98
+CUST1445,New,Adult (36-55),Croissant,2.7,115
+CUST1446,Loyal,Senior (56+),Muffin,1.3,4
+CUST1447,New,Teen (13-19),Cupcake,3.2,115
+CUST1448,Regular,Teen (13-19),Chocolate,2.7,72
+CUST1449,Loyal,Adult (36-55),Cookies,2.6,27
+CUST1450,Loyal,Senior (56+),Cookies,2.3,82
+CUST1451,Regular,Young Adult (20-35),Brownie,4.1,68
+CUST1452,Loyal,Senior (56+),Muffin,1.7,86
+CUST1453,Loyal,Senior (56+),Cake,3.4,107
+CUST1454,New,Senior (56+),Cake,2.6,43
+CUST1455,Regular,Senior (56+),Cookies,2.0,15
+CUST1456,New,Senior (56+),Muffin,2.6,70
+CUST1457,Regular,Adult (36-55),Cookies,3.9,77
+CUST1458,Regular,Adult (36-55),Cake,9.2,21
+CUST1459,New,Teen (13-19),Jar Cake,2.9,72
+CUST1460,Regular,Teen (13-19),Jar Cake,2.4,110
+CUST1461,New,Teen (13-19),Chocolate,2.2,22
+CUST1462,Loyal,Teen (13-19),Jar Cake,1.6,42
+CUST1463,New,Teen (13-19),Jar Cake,6.9,67
+CUST1464,Regular,Senior (56+),Muffin,13.5,42
+CUST1465,New,Adult (36-55),Cake,2.0,25
+CUST1466,New,Young Adult (20-35),Jar Cake,1.4,40
+CUST1467,Regular,Adult (36-55),Croissant,0.6,69
+CUST1468,New,Young Adult (20-35),Jar Cake,9.3,30
+CUST1469,Regular,Teen (13-19),Cupcake,5.0,16
+CUST1470,Loyal,Senior (56+),Cake,2.1,8
+CUST1471,New,Young Adult (20-35),Jar Cake,3.9,90
+CUST1472,Loyal,Adult (36-55),Croissant,2.3,54
+CUST1473,New,Young Adult (20-35),Croissant,1.3,5
+CUST1474,New,Young Adult (20-35),Croissant,4.7,69
+CUST1475,New,Adult (36-55),Cookies,4.8,63
+CUST1476,Loyal,Young Adult (20-35),Brownie,0.7,3
+CUST1477,New,Senior (56+),Cake,0.6,115
+CUST1478,Loyal,Teen (13-19),Chocolate,3.8,106
+CUST1479,Loyal,Young Adult (20-35),Brownie,0.8,66
+CUST1480,Regular,Senior (56+),Cookies,1.2,87
+CUST1481,Regular,Senior (56+),Muffin,3.9,55
+CUST1482,Regular,Young Adult (20-35),Jar Cake,3.3,17
+CUST1483,Regular,Teen (13-19),Jar Cake,2.2,31
+CUST1484,New,Adult (36-55),Croissant,1.9,111
+CUST1485,Regular,Teen (13-19),Chocolate,1.5,84
+CUST1486,Regular,Young Adult (20-35),Croissant,0.9,47
+CUST1487,Regular,Adult (36-55),Cookies,3.2,28
+CUST1488,New,Adult (36-55),Cookies,1.8,31
+CUST1489,New,Young Adult (20-35),Jar Cake,2.4,24
+CUST1490,Loyal,Young Adult (20-35),Croissant,1.2,75
+CUST1491,New,Senior (56+),Cake,0.6,109
+CUST1492,Regular,Adult (36-55),Cake,1.1,62
+CUST1493,New,Adult (36-55),Cookies,1.1,8
+CUST1494,Loyal,Young Adult (20-35),Brownie,4.1,70
+CUST1495,Loyal,Young Adult (20-35),Brownie,4.8,13
+CUST1496,New,Young Adult (20-35),Jar Cake,0.8,19
+CUST1497,New,Young Adult (20-35),Jar Cake,3.2,83
+CUST1498,Regular,Young Adult (20-35),Jar Cake,0.6,9
+CUST1499,New,Young Adult (20-35),Brownie,1.6,10
